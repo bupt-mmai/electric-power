@@ -51,8 +51,7 @@ def readCsv():
                     if i[2] not in manner_dict: # 不正确词
                         if i[2] not in nz_dict: # 公司词
                             if i[2] not in todo_dict: # 中间过程词
-                                if i[2] not in sample_dict: #
+                                if i[2] not in sample_dict: 
                                     writeCsv(i)
-            # print(i[8],i[9])
 
 readCsv()
