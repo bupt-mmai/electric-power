@@ -1,6 +1,6 @@
 # electric-power
 
-# 电力运检知识图谱项目代码
+# 电力运检知识图谱
 
 项目路径：
 - ac-code 属性抽取代码及数据
@@ -12,7 +12,8 @@
 - rc-code 关系抽取代码及数据
 - .gitignore git忽略文件 
 
-本项目为电力运检知识图谱-知识抽取算法项目代码。 
+本项目为电力运检知识图谱-知识抽取算法项目代码。  
+ 
 本项目后续的应用实例项目（皮皮电力运检知识图谱管理系统）的相关地址如下： 
 - [前端](https://github.com/lionztt/power-kg-web) 
 - [后端](https://github.com/lionztt/power-kg-node)
